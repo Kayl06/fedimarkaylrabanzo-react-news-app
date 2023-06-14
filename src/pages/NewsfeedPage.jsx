@@ -41,7 +41,7 @@ function NewfeedPage() {
       getUser();
     }
 
-    const isFirstLogin = user.first_login;
+    const isFirstLogin = user ? user.first_login : 0;
 
     if (parseInt(isFirstLogin)) {
       navigate("/preference");
