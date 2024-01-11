@@ -12,7 +12,8 @@ function NewfeedPage() {
   const [selectedFilters, setSelectedFilters] = useState({}); // State to hold selected filters
   const navigate = useNavigate();
 
-  const defaultData = [
+  const defaultData = {
+    articles: [
     {
       title: "Scientists Make Breakthrough in Cancer Research",
       description: "A team of researchers discovers a potential cure for a rare form of cancer.",
@@ -103,7 +104,8 @@ function NewfeedPage() {
       url: "https://example.com/sustainable-fashion-week",
       urlToImage: "https://example.com/sustainable-fashion-week-image.jpg"
     }
-  ];
+    ]
+  }
 
   const {
     data: allNews,
