@@ -21,7 +21,7 @@ function NewfeedPage() {
       author: "Dr. Amanda Johnson",
       publishedAt: "2024-01-11T09:15:00Z",
       url: "https://example.com/cancer-breakthrough",
-      urlToImage: "https://example.com/cancer-breakthrough-image.jpg"
+      urlToImage: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1dSxRp0Skr1huD0teh0Lb38qqU_hLnwvWqA&usqp=CAU"
     },
     {
       title: "Space Exploration Mission Successfully Launched",
@@ -30,7 +30,7 @@ function NewfeedPage() {
       author: "Alan Spacewalker",
       publishedAt: "2024-01-10T18:45:00Z",
       url: "https://example.com/space-exploration",
-      urlToImage: "https://example.com/space-exploration-image.jpg"
+      urlToImage: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1dSxRp0Skr1huD0teh0Lb38qqU_hLnwvWqA&usqp=CAU"
     },
     {
       title: "New Environmental Regulations Implemented Globally",
@@ -39,7 +39,7 @@ function NewfeedPage() {
       author: "Eco Guardian",
       publishedAt: "2024-01-09T14:20:00Z",
       url: "https://example.com/environmental-regulations",
-      urlToImage: "https://example.com/environmental-regulations-image.jpg"
+      urlToImage: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1dSxRp0Skr1huD0teh0Lb38qqU_hLnwvWqA&usqp=CAU"
     },
     {
       title: "Technology Company Announces Groundbreaking AI Advancements",
@@ -48,7 +48,7 @@ function NewfeedPage() {
       author: "Tech Innovator",
       publishedAt: "2024-01-08T12:30:00Z",
       url: "https://example.com/ai-advancements",
-      urlToImage: "https://example.com/ai-advancements-image.jpg"
+      urlToImage: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1dSxRp0Skr1huD0teh0Lb38qqU_hLnwvWqA&usqp=CAU"
     },
     {
       title: "Sports Team Celebrates Historic Victory",
@@ -57,7 +57,7 @@ function NewfeedPage() {
       author: "Sports Analyst",
       publishedAt: "2024-01-07T20:10:00Z",
       url: "https://example.com/historic-sports-victory",
-      urlToImage: "https://example.com/sports-victory-image.jpg"
+      urlToImage: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1dSxRp0Skr1huD0teh0Lb38qqU_hLnwvWqA&usqp=CAU"
     },
     {
       title: "New Educational Initiative Aims to Bridge the Digital Divide",
@@ -66,7 +66,7 @@ function NewfeedPage() {
       author: "Education Advocate",
       publishedAt: "2024-01-06T16:55:00Z",
       url: "https://example.com/digital-divide-initiative",
-      urlToImage: "https://example.com/digital-divide-initiative-image.jpg"
+      urlToImage: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1dSxRp0Skr1huD0teh0Lb38qqU_hLnwvWqA&usqp=CAU"
     },
     {
       title: "Healthcare Breakthrough: Promising Vaccine Shows High Efficacy",
@@ -75,7 +75,7 @@ function NewfeedPage() {
       author: "Dr. Sarah Thompson",
       publishedAt: "2024-01-05T11:40:00Z",
       url: "https://example.com/promising-vaccine",
-      urlToImage: "https://example.com/promising-vaccine-image.jpg"
+      urlToImage: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1dSxRp0Skr1huD0teh0Lb38qqU_hLnwvWqA&usqp=CAU"
     },
     {
       title: "Cultural Event Draws Record Attendance",
@@ -84,7 +84,7 @@ function NewfeedPage() {
       author: "Cultural Correspondent",
       publishedAt: "2024-01-04T19:25:00Z",
       url: "https://example.com/cultural-event-success",
-      urlToImage: "https://example.com/cultural-event-image.jpg"
+      urlToImage: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1dSxRp0Skr1huD0teh0Lb38qqU_hLnwvWqA&usqp=CAU"
     },
     {
       title: "Finance Industry Adopts Blockchain Technology for Efficiency",
@@ -93,7 +93,7 @@ function NewfeedPage() {
       author: "Financial Analyst",
       publishedAt: "2024-01-03T13:15:00Z",
       url: "https://example.com/blockchain-finance",
-      urlToImage: "https://example.com/blockchain-finance-image.jpg"
+      urlToImage: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1dSxRp0Skr1huD0teh0Lb38qqU_hLnwvWqA&usqp=CAU"
     },
     {
       title: "Fashion Week Showcases Sustainable and Ethical Designs",
@@ -102,7 +102,7 @@ function NewfeedPage() {
       author: "Fashion Insider",
       publishedAt: "2024-01-02T09:50:00Z",
       url: "https://example.com/sustainable-fashion-week",
-      urlToImage: "https://example.com/sustainable-fashion-week-image.jpg"
+      urlToImage: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1dSxRp0Skr1huD0teh0Lb38qqU_hLnwvWqA&usqp=CAU"
     }
     ]
   }
