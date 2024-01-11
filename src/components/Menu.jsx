@@ -27,7 +27,7 @@ function Menu() {
             p-2
             space-y-6
             lg:space-y-0
-            lg:mt-4 md:flex-row md:space-x-8 md:text-sm md:font-medium
+            md:flex-row md:space-x-8 md:text-sm md:font-medium
           "
         >
           <li>
